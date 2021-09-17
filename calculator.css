@@ -1,0 +1,57 @@
+.calculator{
+
+    width: 450px;
+    height: 430px;
+   
+    background-color:powderblue;
+    margin: auto;
+    margin-top:160px;
+}
+#screen
+
+
+{
+    width: 396px;
+    height: 44px;
+    background-color: white;
+    margin-top: 15px;
+    float: right;
+    margin-right: 27px;
+}
+.button
+{
+   
+    width: 450px;
+    height: 300px;
+    margin: auto;
+    
+    margin-top: -370px;
+}
+
+.row
+{
+    width: 450px;
+    height: 66px;
+
+    margin-top: 10px;
+   
+}
+.B{
+
+    width: 60px;
+    height: 60px;
+    margin-right: -34px;
+    margin-left: 60px;
+
+}
+.equal
+{
+
+    width: 60px;
+    height: 60px;
+    width: 116px;
+height: 60px;
+margin-left: 274px;
+padding-left: 22px;
+
+}
